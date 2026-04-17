@@ -45,7 +45,7 @@ Synthetic dataset created using Python:
 ## 📷 Output
 
 ### Scatter Plot
-![Graph](images/graph.png)
+![Graph](https://github.com/mani-ai-dev/student-score-prediction/blob/7638647474c4ed4b7f9298a42c28279a7419c50f/images/Screenshot%202026-04-17%20145841.png)
 
 ### Streamlit App
 ![App](https://github.com/mani-ai-dev/student-score-prediction/blob/289239d4072c9e35617da8415e874daa26a73b70/images/Screenshot%202026-04-17%20145826.png)
