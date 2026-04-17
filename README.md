@@ -1,20 +1,68 @@
-# 🎓 Student Score Prediction
+# 🎓 Student Score Prediction using Machine Learning
 
 ## 📌 Problem Statement
-Predict student exam scores based on study hours using machine learning.
+Predict student exam scores based on study hours using regression techniques.
+
+---
+
+## 📊 Dataset
+Synthetic dataset created using Python:
+- Feature: Study Hours
+- Target: Exam Scores
+
+---
 
 ## ⚙️ Approach
-- Created dataset using pandas
-- Applied Linear Regression
-- Improved using Polynomial Regression
-- Evaluated using R², MAE, RMSE
+
+### 🔹 Data Analysis
+- Visualized relationship using scatter plot
+- Observed strong positive correlation
+
+### 🔹 Model Building
+- Linear Regression
+- Polynomial Regression (degree = 2)
+
+### 🔹 Evaluation Metrics
+- R² Score
+- MAE
+- RMSE
+
+---
+
+## 📈 Results
+- Linear regression provided good baseline accuracy
+- Polynomial regression improved prediction performance
+- Clear relationship between study time and performance
+
+---
 
 ## 🌐 Deployment
-Built a Streamlit web app for user interaction
+- Built interactive web app using Streamlit
+- Enabled real-time predictions
+
+---
+
+## 📷 Output
+
+### Scatter Plot
+![Graph](images/graph.png)
+
+### Streamlit App
+![App](images/app.png)
+
+---
 
 ## 🛠️ Tech Stack
-Python, Pandas, Scikit-learn, Matplotlib, Streamlit
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Streamlit
+
+---
 
 ## 🚀 How to Run
+
+```bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run app/app.py
