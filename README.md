@@ -48,7 +48,7 @@ Synthetic dataset created using Python:
 ![Graph](images/graph.png)
 
 ### Streamlit App
-![App](images/app.png)
+![App](https://github.com/mani-ai-dev/student-score-prediction/blob/289239d4072c9e35617da8415e874daa26a73b70/images/Screenshot%202026-04-17%20145826.png)
 
 ---
 
