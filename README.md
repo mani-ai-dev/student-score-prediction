@@ -4,7 +4,13 @@
 Predict student exam scores based on study hours using regression techniques.
 
 ---
-
+## APPROACH
+--> notebook/
+--> app/
+--> images/
+--> README.md
+--> requirements.txt
+---
 ## 📊 Dataset
 Synthetic dataset created using Python:
 - Feature: Study Hours
